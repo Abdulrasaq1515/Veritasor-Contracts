@@ -4,9 +4,10 @@
 **/target/
 **/*.rs.bk
 Cargo.lock
-.env
 .DS_Store
 **/test_snapshots
 
 # Test snapshots
 **/test_snapshots/
+config.bat
+node_modules
